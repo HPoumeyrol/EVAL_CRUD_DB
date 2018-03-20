@@ -1,0 +1,119 @@
+pk_id;nom
+1;Boissons alcoolisées/Bière
+2;Boissons alcoolisées/Spiritueux
+3;Boissons alcoolisées/Vin
+4;Boissons sans alcool/Boissons à teneur reduite en sucre
+5;Boissons sans alcool/Boissons sucrées
+6;"Boissons sans alcool/Boissons sucrées;Boissons alcoolisées/Autres boissons alcoolisées"
+7;"Boissons sans alcool/Boissons sucrées;Boissons sans alcool/Jus de fruits et de légumes"
+8;"Boissons sans alcool/Boissons sucrées;Boissons sans alcool/Thé"
+9;Boissons sans alcool/Café
+10;Boissons sans alcool/Eau potable
+11;Boissons sans alcool/Jus de fruits et de légumes
+12;"Boissons sans alcool/Jus de fruits et de légumes;Légumes/Jus de légumes"
+13;Boissons sans alcool/Sirop
+14;"Boissons sans alcool/Sirop;Boissons sans alcool/Boissons sucrées"
+15;Boissons sans alcool/Thé
+16;"Denrées alimentaires spéciales/Suppléments;Divers/Levure"
+17;Divers/Gélifiants et liants
+18;"Divers/Levure;Divers/Ingrédients de boulangerie-pâtisserie"
+19;Divers/Pâtes à tartiner
+20;Divers/Sauces
+21;Divers/Sel, épices et arômes
+22;Fruits/Fruits cuits (conserves comprises)
+23;Fruits/Fruits frais
+24;Fruits/Fruits secs
+25;"Fruits/Jus de fruits;Boissons sans alcool/Jus de fruits et de légumes"
+26;"Graisses et huiles/Crème;Lait et produits laitiers/Crème et beurre"
+27;Graisses et huiles/Graisses
+28;"Graisses et huiles/Graisses;Lait et produits laitiers/Crème et beurre"
+29;Graisses et huiles/Huiles
+30;"Graisses et huiles/Huiles;Graisses et huiles/Graisses"
+31;Graisses et huiles/Mayonnaises
+32;Graisses et huiles/Sauces à salade
+33;Lait et produits laitiers/Boissons lactées et yogourts à boire
+34;"Lait et produits laitiers/Boissons lactées et yogourts à boire;Boissons sans alcool/Café"
+35;Lait et produits laitiers/Fromage à pâte dure
+36;Lait et produits laitiers/Fromage à pâte molle
+37;"Lait et produits laitiers/Fromage à pâte molle;Lait et produits laitiers/Fromage frais et séré"
+38;Lait et produits laitiers/Fromage frais et séré
+39;"Lait et produits laitiers/Fromage frais et séré;Lait et produits laitiers/Fromage à pâte molle"
+40;Lait et produits laitiers/Lait
+41;Lait et produits laitiers/Produits à base de fromage
+42;Lait et produits laitiers/Substituts du lait
+43;Lait et produits laitiers/Yogourt et lait acidulé
+44;Légumes/Champignons
+45;Légumes/Herbes aromatiques
+46;Légumes/Légumes cuits (conserves comprises)
+47;Légumes/Légumes frais
+48;"Légumes/Légumes frais;Noix, graines et produits oléagineux"
+49;Légumes/Légumes secs
+50;Légumes/Pousses et germes
+51;Noix, graines et produits oléagineux
+52;Œufs
+53;Pains, flocons et céréales pour le petit-déjeuner/Flocons, son et germes
+54;"Pains, flocons et céréales pour le petit-déjeuner/Flocons, son et germes;Denrées alimentaires spéciales/Suppléments"
+55;Pains, flocons et céréales pour le petit-déjeuner/Mélanges de müesli et céréales pour petit-déjeuner
+56;Pains, flocons et céréales pour le petit-déjeuner/Pains croustillants, biscottes, crackers et gallettes
+57;Pains, flocons et céréales pour le petit-déjeuner/Pains et produits de boulangerie
+58;Plats/Autres plats salés/épicés
+59;Plats/Autres plats sucrés
+60;Plats/Müesli
+61;Plats/Plats asiatiques
+62;Plats/Plats italiens
+63;Plats/Potages et soupes
+64;Plats/Salades
+65;Plats/Sandwich
+66;Plats/Tartes sucrées et salées et gratins
+67;Poisson
+68;Poisson/Fruits de mer et crustacés
+69;Poisson/Poissons d'eau douce
+70;"Poisson/Poissons d''eau douce;Poisson/Poissons de mer"
+71;Poisson/Poissons de mer
+72;Poisson/Produits à base de poisson
+73;Produits carnés et charcuterie/Autres produits carnés et produits de charcuterie
+74;Produits carnés et charcuterie/Produits de charcuterie bouillis
+75;Produits carnés et charcuterie/Produits de charcuterie crus
+76;Produits carnés et charcuterie/Produits de charcuterie cuits
+77;Produits céréaliers, légumineuses et pommes de terre/Autres produits céréaliers
+78;Produits céréaliers, légumineuses et pommes de terre/Farines et amidon
+79;"Produits céréaliers, légumineuses et pommes de terre/Farines et amidon;Divers/Gélifiants et liants"
+80;Produits céréaliers, légumineuses et pommes de terre/Légumineuses
+81;Produits céréaliers, légumineuses et pommes de terre/Maïs
+82;Produits céréaliers, légumineuses et pommes de terre/Pâtes
+83;Produits céréaliers, légumineuses et pommes de terre/Pâtes alimentaires
+84;Produits céréaliers, légumineuses et pommes de terre/Pommes de terre
+85;Produits céréaliers, légumineuses et pommes de terre/Riz
+86;Snacks salés/Autres snacks salés
+87;Snacks salés/Chips
+88;Snacks salés/Noix et graines salées
+89;Snacks salés/Produits en pâte feuilletée
+90;Snacks salés/Sticks salés et bretzels
+91;Substituts de viande
+92;Sucreries/Autres articles de pâtisserie
+93;Sucreries/Autres sucreries
+94;Sucreries/Biscuits
+95;Sucreries/Bonbons, bonbons gélifiés aux fruits et chewing-gums
+96;Sucreries/Chocolat et produits chocolatés
+97;"Sucreries/Chocolat et produits chocolatés;Boissons sans alcool/Boissons chocolatées"
+98;Sucreries/Confitures et produits à tartiner sucrés
+99;Sucreries/Crèmes et pouding
+100;Sucreries/Gâteaux, tourtes et cakes
+101;"Sucreries/Gâteaux, tourtes et cakes;Plats/Tartes sucrées et salées et gratins"
+102;Sucreries/Glaces à base d'eau
+103;Sucreries/Glaces à base de lait
+104;Sucreries/Sucres et édulcorants
+105;Viande et abats
+106;Viande et abats/Agneau, mouton
+107;Viande et abats/Autres espèces animales
+108;Viande et abats/Bœuf
+109;Viande et abats/Gibier
+110;Viande et abats/Porc
+111;"Viande et abats/Porc;Viande et abats/Veau;Viande et abats/Agneau, mouton"
+112;Viande et abats/Veau
+113;"Viande et abats/Veau;Viande et abats/Bœuf"
+114;"Viande et abats/Veau;Viande et abats/Bœuf;Viande et abats/Porc;Viande et abats/Volaille"
+115;"Viande et abats/Veau;Viande et abats/Porc;Viande et abats/Bœuf;Viande et abats/Volaille"
+116;"Viande et abats/Veau;Viande et abats/Volaille;Viande et abats/Agneau, mouton;Viande et abats/Bœuf;Viande et abats/Porc;Viande et abats/Gibier"
+117;Viande et abats/Volaille
+118;"Viande et abats/Volaille;Viande et abats/Veau;Viande et abats/Bœuf;Viande et abats/Porc"

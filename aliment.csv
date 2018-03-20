@@ -1,0 +1,1000 @@
+1000;Café au lait;100;10.20;5.30;8.70;9
+1;Agar Agar;160;2.40;0.00;0.20;17
+2;Sirop d'agave;293;0.20;73.10;0.00;104
+3;Macaronis de l'alpage, préparés;184;6.10;18.60;9.00;58
+4;Amaretti (biscuits aux amandes);451;7.60;75.70;12.40;94
+5;Ananas, sucré, conserve;87;0.40;20.20;0.20;22
+6;Ananas, cru;51;0.40;11.30;0.20;23
+7;Ananas, non sucré , conserve;51;0.40;11.30;0.20;22
+8;Pomme, cuite,  égouttée (sans adjonction de sucre);72;0.40;15.40;0.40;22
+9;Pomme, pelée, sechée;295;1.50;63.20;2.00;24
+10;Pomme, crue;55;0.30;11.70;0.30;23
+11;Tarte aux pommes, cuite au four (pâte feuilletée);142;2.30;16.50;7.00;101
+12;Tarte aux pommes, cuite au four (pâte à gateau);134;2.70;18.80;4.90;101
+13;Purée de pommes, sucrée, conserve;90;0.30;20.50;0.30;22
+14;Purée de pommes, non sucrée, conserve;55;0.30;11.70;0.30;22
+15;Jus de pomme;44;0.10;10.80;0.10;25
+16;Cidre de pomme, 4 vol%;32;0.00;2.50;0.00;3
+17;Cidre de pomme, 6.2 vol%;64;0.00;7.30;0.00;3
+18;Appenzeller, quart-gras;238;33.80;0.00;11.40;35
+19;Appenzeller, gras;386;24.80;0.00;31.70;35
+317;Sauce chasseur;58;2.20;8.00;1.80;20
+391;Kebab en fougasse;125;7.70;14.50;3.70;65
+606;Pommes Chips;537;4.90;49.40;34.70;87
+711;Rollmops ;270;12.00;19.60;15.90;72
+841;Huile de soja;809;0.00;0.00;89.90;29
+884;Thon, cru;149;23.40;0.00;6.20;71
+20;Abricot, cuit,  égoutté (sans adjonction de sucre);60;1.00;12.50;0.10;22
+21;Abricot, sec;275;5.00;47.90;0.50;24
+22;Abricot, sucré, conserve;84;0.70;19.00;0.10;22
+23;Abricot, cru;48;0.80;10.00;0.10;23
+24;Abricot, non sucré, conserve;48;0.80;10.00;0.10;22
+25;Tarte aux abricots, cuite au four (pâte feuilletée);137;2.60;15.40;6.80;101
+26;Tarte aux abricots, cuite au four (pâte à gateau);128;3.00;17.60;4.70;101
+27;Aubergine, à l'étuveée (sans adjonction de graisse ni de sel);28;1.20;3.90;0.20;46
+28;Aubergine, crue;23;1.00;3.10;0.20;47
+29;Piccata d'aubergines, préparée;169;5.30;9.10;11.80;58
+30;Tranches d'aubergine, panées, préparées;139;4.80;15.20;5.90;58
+31;Charcuterie (moyenne);289;14.10;0.70;25.50;74
+32;Avocat, cru;144;1.80;0.80;14.20;48
+33;Levure de boulangerie, pressée;96;16.70;1.10;1.20;18
+34;Bami Goreng, préparé;137;14.00;14.00;2.60;61
+35;Banane, déshydratée (chips);370;3.90;80.70;1.80;24
+36;Banane, mi-sèche;273;3.00;60.20;1.00;24
+37;Banane, crue;95;1.10;21.00;0.30;23
+38;Basilic, cru;46;3.10;5.10;0.80;45
+39;Leckerli de Bâle;404;6.90;74.80;7.60;94
+40;Saucisse à rôtir de porc, grillée (sans adjonction de graisse ni de sel);270;21.10;0.20;20.40;75
+41;Saucisse à rôtir de porc, crue;243;16.90;0.20;19.30;75
+42;Pain paysan;240;9.00;44.50;2.00;57
+43;Salami à la mode campagnarde;532;20.60;0.80;49.50;75
+44;Schüblig de campagne;524;21.30;0.30;48.50;75
+45;Noix;742;15.90;7.00;70.80;51
+46;Pain aux noix;338;8.90;30.90;18.60;57
+47;Sauce Béchamel fait maison;148;4.30;10.20;9.90;20
+48;Baie (moyenne), cuite (sans adjonction de sucre);44;0.80;7.60;0.50;22
+49;Baie (moyenne), crue;42;0.80;7.20;0.50;23
+50;Boule de Berlin;326;8.40;43.10;12.80;92
+51;Fromage des alpes bernoises;456;27.70;0.00;38.30;35
+52;Berner Hobelkäse (fromage à rebibes);493;30.60;0.00;41.20;35
+53;Saucisse bernoise (à la langue);334;17.30;0.00;29.40;74
+54;Biber;464;10.30;56.90;19.90;92
+55;Bière panachée (moyenne);38;0.20;7.10;0.00;1
+56;Levure de bière, séchée;354;47.90;26.50;4.20;16
+57;Saucisse du brasseur;350;16.80;0.00;31.30;74
+58;Birchermüesli, préparé (non sucré);87;2.70;11.10;3.10;60
+59;Poire, cuite,  égouttée (sans adjonction de sucre);75;0.50;15.80;0.40;22
+60;Poire, séchée;288;2.40;59.70;1.40;24
+61;Poire, sucrée, conserve;92;0.40;21.00;0.30;22
+62;Poire, crue;58;0.40;12.20;0.30;23
+63;Poire, non sucrée, conserve;58;0.40;12.20;0.30;22
+64;Tarte aux poires, cuite au four (pâte feuilletée);144;2.40;16.90;7.00;101
+65;Café crème, non sucré;14;0.30;0.60;1.10;9
+66;Tarte aux poires, cuite au four (pâte à gateau);136;2.80;19.10;4.90;101
+67;Jus de poire;50;0.50;11.00;0.50;25
+68;Chausson aux poires;358;5.00;56.60;10.40;92
+69;Blanc battu;43;7.60;2.90;0.10;38
+70;Blanc battu aux fruits light;68;8.00;8.40;0.20;38
+71;Pâte feuillettée faite maison (au beurre), crue;364;5.20;29.40;24.70;82
+72;Pâte feuilletée faite maison (avec graisse végétale), crue;358;5.20;29.40;24.10;82
+73;Vol-au-vent au beurre;564;5.80;43.10;40.50;77
+74;Flûte feuilletté;497;7.20;40.40;33.60;89
+75;Légumes feuille (moyenne sans salade), à la vapeur  (sans adjonction de sel);23;1.60;2.30;0.30;46
+76;Légumes feuille (moyenne sans salade), à l'étuvée (sans adjonction de graisse ni de sel);25;1.70;2.50;0.30;46
+77;Légumes feuille (moyenne sans salade), cuits (sans adjonction de graisse ni de sel);24;1.60;2.40;0.30;46
+78;Salade verte (moyenne), crue;18;1.60;1.40;0.30;47
+79;Fromage bleu (moyenne);361;19.10;0.20;31.50;35
+80;Chou-fleur, à la vapeur (sans adjonction de sel);27;2.50;2.40;0.30;46
+81;Chou-fleur, cru;26;2.40;2.30;0.30;47
+82;Boudin;151;10.70;2.60;10.80;76
+83;Haricot commun (tout type), grain mature, cuit (sans adjonction de graisse ni de sel);114;7.80;15.20;0.60;80
+84;Haricot commun (tout type), grain mature, sec;305;20.90;40.70;1.50;80
+85;Haricot (vert), à la vapeur (sans adjonction de sel);34;2.30;4.00;0.20;46
+86;Haricot (vert) sec, cru;252;20.20;25.70;2.00;49
+87;Haricot vert, cru;31;2.10;3.60;0.20;47
+88;Sauce bolognaise;96;6.30;8.30;4.00;20
+89;Bouillon de viande, preparé;5;0.30;0.20;0.30;63
+90;Bouillon de poule, preparé;5;0.30;0.30;0.30;63
+91;Bouillon de légumes, preparé;6;0.30;0.40;0.40;63
+92;Chocolat au lait, fourré à la crème de noisettes ;557;7.60;48.90;36.00;96
+93;Eau-de-vie de céréales (p.ex. Whisky);252;0.00;0.10;0.00;2
+94;Eau-de-vie de vin (p. ex. Cognac);240;0.00;2.00;0.00;2
+95;Eau-de-vie de canne à sucre (p.ex. Rhum);234;0.00;0.00;0.00;2
+96;Beurre à rôtir;885;0.10;0.00;98.30;28
+97;Sauce de rôti, liée;53;1.60;4.60;3.00;20
+98;Sauce de rôti, claire;44;1.50;3.50;2.50;20
+99;Bresaola;166;32.40;0.40;3.90;75
+100;Brie, mi-gras;200;24.00;0.00;11.50;36
+101;Brie, à la crème;335;16.00;0.00;30.00;36
+102;Brie, gras;300;21.80;0.00;23.50;36
+103;Brocoli, à la vapeur (sans adjonction de sel);30;2.90;2.30;0.40;46
+104;Brocoli, cru;31;3.00;2.40;0.40;47
+105;Mûre, crue;44;1.00;6.20;0.40;23
+106;Tarte aux mûres, cuite au four (pâte feuilletée);135;2.80;12.90;7.00;101
+107;Tarte aux mûres, cuite au four (pâte à gateau);126;3.20;15.10;4.90;101
+108;Tarte aux mûres, cuite au four (pâte brisée sucrée);199;3.20;19.10;11.30;101
+109;Pain (moyenne);265;9.20;44.60;4.70;57
+110;Produits de charcuterie échaudés, fumés (moyenne);263;14.30;0.40;22.70;74
+111;Produits de charcuterie échaudés, non fumés (moyenne);256;13.20;0.80;22.20;74
+112;Cresson, cru;17;2.20;0.30;0.20;47
+113;Brun de Bâle;493;12.70;41.50;28.90;94
+114;Sarrasin, grains décortiqués;343;9.10;71.00;1.70;77
+115;Farine de sarrasin;344;12.00;64.50;2.80;78
+116;Soupe d'orge des Grisons;42;1.40;6.70;0.90;63
+117;Petit pain Bürli (farine mi-blanche);216;8.60;41.60;1.00;57
+118;Croissant blanc au beurre;432;8.80;43.50;24.20;57
+119;Croissant au beurre, complet;366;6.40;38.70;19.80;57
+120;Babeurre;33;3.20;4.00;0.50;33
+121;Petit pain au lait;310;9.40;47.30;8.70;57
+122;Tresse au beurre;326;9.00;45.70;11.40;57
+627;Flan au chocolat;121;3.00;21.00;2.60;99
+123;Tresse au beurre, au blé entier;272;9.40;40.50;6.40;57
+124;Cake financier;426;9.80;37.40;25.50;100
+125;Calimocho (Vin rouge avec cola);58;0.00;5.10;0.00;6
+126;Camembert, mi-gras;178;22.00;0.00;10.00;36
+127;Camembert, à la crème;352;16.40;0.00;31.70;36
+128;Camembert, gras;299;21.20;0.00;23.70;36
+129;Cannellonis à la viande, préparés;193;10.40;14.60;9.90;62
+130;Cannellonis aux épinards à la ricotta, préparés;222;8.70;15.20;13.70;62
+131;Cappuccino (sans poudre de chocolat), non sucré;37;1.80;2.60;2.20;34
+132;Capuns, préparés;168;8.10;10.10;10.40;58
+133;Noix de cajou;593;18.20;26.60;45.20;51
+134;Cervelas;249;13.40;0.50;21.50;74
+135;Champignons de Paris, conserve;19;2.30;0.50;0.30;44
+136;Champignon, à l'étuvée (sans adjonction de graisse ni de sel);27;3.50;1.30;0.40;44
+137;Champignon, cru;22;2.90;1.10;0.30;44
+138;Endive, à la vapeur (sans adjonction de sel);14;1.00;0.70;0.20;46
+139;Endive, crue;14;1.00;0.70;0.20;47
+140;Chili con carne, préparé;125;10.80;9.20;4.40;63
+141;Chou de Chine, à l'étuvée (sans adjonction de graisse ni de sel);16;1.20;1.20;0.30;46
+142;Chou de Chine, cru;16;1.10;1.20;0.30;47
+143;Petit gâteau à l'anice;366;8.50;75.30;3.00;94
+144;Chicorée rouge, crue;19;1.40;1.60;0.10;47
+145;Sauce cocktail, préparée à la maison avec la mayonnaise de colza;695;2.40;3.90;74.40;20
+146;Soda au cola, sucré;40;0.00;10.00;0.00;5
+147;Soda au cola, édulcoré;0;0.00;0.00;0.00;4
+148;Salade Coleslaw, préparée;120;1.70;4.20;10.30;64
+149;Coppa;319;28.80;0.30;22.50;75
+150;Cordon bleu de veau, sauté;240;23.90;10.20;11.40;112
+151;Cordon bleu de porc, sauté;249;24.20;10.20;12.20;110
+152;Cornflakes;359;7.20;79.10;0.60;55
+153;Cotechino;450;17.20;0.00;42.30;76
+154;Cotto (produit à base de viande);93;15.70;0.60;3.10;76
+155;Crackers, biscuits salés;449;9.20;66.30;15.90;90
+156;Feuilleté à la crème;318;3.50;34.60;18.30;92
+157;Crêpes au camembert, préparés;249;11.90;14.90;15.60;58
+158;Crêpes aux champignons, préparés;137;5.30;7.90;9.00;58
+159;Crêpes aux légumes, préparés;165;6.00;13.60;9.30;58
+160;Crêpes au Nutella, préparés;376;7.70;35.70;22.10;59
+161;Crêpes au jambon, préparés;193;12.80;13.20;9.80;58
+162;Crêpes au lard, préparés;253;11.20;15.00;16.40;58
+163;Crêpes au sucre et cannelle, préparés;256;8.20;29.00;11.70;59
+164;Crêpes nature, préparés;234;9.30;19.00;13.30;58
+165;Cocktail au crevette, préparé;174;5.50;4.60;13.20;64
+166;Datte, sèche;305;2.50;69.00;0.50;24
+167;Farine d'épeautre bise, type 1100;348;14.30;65.00;2.20;78
+168;Farine d'épeautre, complète, type 1900;346;15.60;60.00;2.70;78
+169;Farine d'épeautre blanche, type 550;348;13.30;69.00;1.50;78
+170;Huile de chardon;806;0.00;0.00;89.60;29
+171;Double crème, pasteurisée;425;2.10;2.80;45.00;26
+172;Cabillaud, filet, à la vapeur (sans adjonction de graisse ni de sel);95;22.60;0.00;0.50;71
+173;Morue, cru;76;18.10;0.00;0.40;71
+174;Dulce de Leche;300;5.90;52.60;7.30;98
+175;Châtaigne, crue;198;2.90;42.40;1.50;51
+176;Perche, crue;78;18.00;0.00;0.70;69
+177;Omelette à la française au fromage, préparée;195;13.80;1.20;14.90;58
+178;Omelette à la française au jambon, préparée;146;12.60;1.30;10.00;58
+179;Omelette à la française au lard, préparée;182;12.30;1.30;14.20;58
+180;Omelette à la française, préparée;154;11.10;1.40;11.50;58
+181;Chanterelle, à l'étuvée (sans adjonction de graisse ni de sel);26;2.00;0.20;0.60;44
+182;Chanterelle, crue;21;1.60;0.20;0.50;44
+183;Salade Iceberg, crue;16;1.00;1.60;0.20;47
+184;Thé froid, sucré;30;0.00;7.50;0.00;8
+185;Emmentaler, gras;411;29.00;0.00;32.60;35
+186;Chicorée scarole, crue;16;1.80;1.20;0.20;47
+187;Gateau au noix d' Engadine;486;7.00;49.90;28.30;100
+188;Petit-pois, conserve;88;4.80;12.80;0.80;46
+189;Gratin de légumes, cuit au four;57;3.00;2.30;3.60;66
+190;Petit-pois (conserve), réchauffé (sans adjonction de sel);94;5.10;13.60;0.90;46
+191;Petit-pois, à la vapeur (sans adjonction de sel);104;6.90;13.80;0.80;46
+192;Petit-poid, cru;90;6.00;12.00;0.70;47
+193;Pois, grain mature, décortiqué, sec;331;21.30;51.90;1.70;80
+194;Pois, grain mature, cuit (sans adjonction de graisse ni de sel);142;9.10;22.30;0.70;80
+195;Petit-pois et carottes, conserve;67;3.80;9.60;0.50;46
+196;Petits-pois et carottes, réchauffés (sans adjonction de sel);71;4.00;10.20;0.50;46
+197;Fraise, crue;40;0.70;7.00;0.50;23
+198;Cacahuète;600;26.00;11.20;48.50;51
+199;Flips aux cacahuètes;506;13.20;56.50;24.20;87
+200;Cacahuète, grillée;593;25.30;8.60;49.00;51
+201;Beurre d'arachides;638;22.60;12.20;53.70;98
+202;Huile d'arachide;809;0.00;0.00;89.90;29
+203;Expresso crème, non sucré;28;0.50;0.90;2.50;9
+204;Vinaigre;22;0.10;0.70;0.00;21
+205;Sauce de salade vinaigre-huile (avec huile de colza);326;0.70;4.60;33.00;32
+206;Figue, sèche;273;3.20;56.80;1.20;24
+207;Figue, crue;74;0.90;15.50;0.30;23
+208;Corégone / Lavaret, cru;101;19.20;0.00;2.70;69
+209;Fenouil, à la vapeur (sans adjonction de sel);23;1.10;2.30;0.30;46
+210;Fenouil, cru;23;1.10;2.30;0.30;47
+211;Poisson (moyenne), filet, à la vapeur (sans adjonction de graisse ni de sel);171;25.30;0.00;7.80;67
+212;Poisson (moyen), cru;137;20.20;0.00;6.20;70
+213;Bâtonnet de poisson (pané et préfrit), grillé au colza HOLL;310;17.60;16.60;19.10;71
+214;Bâtonnet de poisson (pané et préfrit), au four (sans adjonction de graisse);264;18.40;17.40;13.20;71
+215;Bâtonnet de poisson, pané et préfrit;232;16.20;15.30;11.60;71
+216;Tarte flambée, cuite au four;268;9.30;22.90;15.10;66
+217;Viande (moyenne sans abats), crue;145;21.50;0.00;6.60;116
+218;Fromage d'Italie;256;12.50;1.40;22.30;74
+219;Lasagne de viande, préparée;156;9.70;12.90;6.90;62
+220;Flet, filet, à la vapeur (sans adjonction de graisse ni de sel);90;20.60;0.00;0.90;71
+221;Flet, cru;72;16.50;0.00;0.70;71
+222;Fondue sans alcool, préparé;281;19.40;1.60;21.80;58
+223;Fondue classique, préparé;308;20.60;1.10;23.10;58
+224;Fondue moitié-moitié, préparé;282;17.60;1.00;21.40;58
+225;Truite, entière, bouillie (sans adjonction de graisse ni de sel);159;20.00;0.00;8.80;69
+226;Truite, cru;127;16.00;0.00;7.00;69
+227;Pain perdu non sucré;224;8.00;24.90;10.00;59
+228;Vacherin fribourgeois;372;24.00;0.00;30.40;35
+229;Fromage frais, double crème;338;7.90;4.50;32.10;38
+230;Fruit (moyenne), cuit (sans adjonction de sucre);64;0.60;13.10;0.40;22
+231;Fruits (moyenne), séchés;276;2.80;58.10;0.90;24
+232;Fruit (moyenne), cru;57;0.70;11.80;0.30;23
+233;Jus de fruit dilué (60% jus - 40 % eau), non sucré (moyenne);31;0.20;7.20;0.20;11
+234;Jus de fruit, non sucré (moyenne);52;0.30;12.00;0.30;25
+235;Macédoine de fruits, sucrée, conserve;78;0.50;17.70;0.20;22
+236;Macédoine de fruits, non sucrée, conserve;53;0.50;11.30;0.20;22
+628;Flan à la vanille;101;2.80;18.00;2.00;99
+237;Tarte aux fruits (moyenne);155;2.90;16.80;7.70;101
+238;Tarte aux fruits, pâte feuilletée (moyenne);136;2.60;14.70;6.90;101
+239;Tarte aux fruits, pâte à gateau (moyenne);128;3.00;16.90;4.80;101
+240;Tarte aux fruits, cuite au four, pâte brisée sucrée (moyenne);200;3.20;18.80;11.40;101
+241;Bière aux cinq céréales;40;0.60;2.00;0.00;1
+242;Crevette, cuite;59;12.00;1.30;0.60;68
+243;Crevette, crue;56;11.40;1.20;0.60;68
+244;Viande de volaille (moyenne sans abats), crue;131;21.90;0.00;4.80;117
+245;Viande de volaille avec peau (moyenne), crue;151;20.70;0.00;7.60;117
+246;Viande de volaille sans peau (moyenne sans abats), crue;114;22.90;0.10;2.50;117
+247;Charcuterie  de volaille;205;13.50;0.90;16.40;74
+248;Viande hachée (moyenne boeuf, veau, porc, poulet), grillée (sans adjonction de graisse ni de sel);179;27.30;0.00;7.80;105
+249;Viande hachée (moyenne de veau, boeuf, porc, poulet), crue;142;21.60;0.00;6.20;114
+250;Légumes (moyenne), crus;27;1.30;3.70;0.30;47
+251;Lasagne de légume, préparée;135;4.80;11.70;7.40;62
+252;Orge, flocons;330;7.90;66.10;1.50;53
+253;Orge, flocons complets;330;7.90;66.10;1.50;53
+254;Potée à l'orge, cuite;136;3.40;24.80;2.20;77
+255;Emincé (moyenne de veau, boeuf, porc, volaille), grillée (sans adjonction de graisse ni de sel);161;30.00;0.10;4.50;105
+256;Viande émincée (moyenne de veau, boeuf, porc, poulet), crue;118;21.90;0.10;3.30;115
+257;Flocons de céréales (moyenne);344;10.20;63.90;3.30;53
+258;Croissant (moyenne);406;8.00;40.40;23.00;57
+424;Noix de coco, sèche ;660;6.20;6.40;63.30;51
+259;Fromage aux herbes glaronnais ;134;32.30;0.00;0.50;38
+260;Gorgonzola;359;19.40;0.10;31.20;35
+261;Pamplemousse, cru;30;0.70;5.90;0.10;23
+262;Gruyère, gras;399;27.00;0.00;32.00;35
+263;Semoule, préparée (avec du lait partiellement écrémé);95;4.80;12.00;3.00;99
+264;Semoule, préparée (avec du lait entier);95;4.80;12.00;3.00;99
+265;Tranche de semoule, préparée (avec du lait partiellement écrémé);146;6.30;15.40;6.40;58
+266;Tranche de semoule, préparée (avec du lait entier);156;6.30;15.40;7.50;58
+267;Bonhomme en pâte;330;9.20;46.90;11.20;92
+268;Kouglof façon Grand-mère;459;8.30;32.70;32.10;100
+269;Soupe goulache;67;4.80;6.30;2.40;63
+270;Bonbon gélifié à l'arome de fruit;341;6.60;78.60;0.00;95
+271;Cornichon au vinaigre;14;0.70;2.10;0.10;46
+272;Concombre, cru;13;0.70;2.00;0.10;47
+273;Rôti de viande hachée, cuit au four;197;17.10;8.20;10.50;58
+274;Hamburger (boeuf), grillé au colza HOLL;204;20.40;6.40;10.60;108
+275;Porridge, préparé (avec du lait partiellement écrémé);133;6.40;18.30;3.60;99
+276;Porridge, préparé (avec du lait entier);150;6.40;16.00;6.30;99
+277;Avoine, flocons;372;13.50;57.50;7.50;53
+278;Son d'avoine;366;17.30;50.80;7.00;53
+279;Beurre mi-gras;388;4.00;3.50;39.80;28
+280;Demi-crème, pasteurisée;274;2.30;3.30;27.90;26
+281;Demi-crème, UHT;251;2.60;3.70;25.10;26
+282;Pain mi-blanc;240;9.40;46.40;1.10;57
+283;Fromage à pâte dure et mi-dure, grasse (en moyenne);400;27.20;0.00;32.10;35
+284;Bonbon dur;385;0.50;95.00;0.30;95
+285;Semoule de blé dur, sèche;351;12.60;70.40;1.20;77
+286;Lièvre (moyenne), cru;115;22.00;0.00;3.00;107
+287;Noisette;643;15.20;6.90;59.50;51
+288;Pâte à tartiner aux noisettes et au chocolat;546;5.80;55.60;32.70;98
+289;Biscuits aux noisettes;473;6.70;47.40;27.70;94
+290;Macarons aux noisettes;533;11.40;35.50;37.00;94
+291;Bâtonnets aux noisettes;562;10.10;46.10;36.70;94
+292;Brochet, cru;81;18.40;0.00;0.80;69
+293;Pâte lévée (avec beurre), sucrée, crue;311;8.60;43.20;11.10;82
+294;Pâte lévée (avec graisse végétale), sucrée, crue;304;9.10;40.00;11.50;82
+295;Myrtille, crue;58;0.60;11.30;0.50;23
+296;Flétan, cru;118;20.60;0.00;3.90;71
+297;Framboise, crue;52;1.20;7.00;0.60;23
+298;Jambon cuit de derrière;104;20.20;0.70;2.30;76
+299;Cerf (moyenne), cru;112;20.60;0.00;3.30;109
+300;Cerf, entrecôte, crue;111;23.10;0.00;2.10;109
+301;Millet, grains décortiqués;357;9.80;68.80;3.90;77
+302;Millet, flocons complets;357;9.80;68.80;3.90;53
+303;Potée au millet, cuite;145;3.60;24.90;3.10;77
+304;Sauce hollandaise;211;3.00;9.30;18.00;20
+305;Baie de sureau noir, crue;52;2.50;7.40;0.50;23
+306;Miel (miel de fleurs);306;0.40;76.00;0.00;98
+307;Melon, cru;38;0.70;8.00;0.10;23
+308;Hot Dog en pain blanc avec ketchup et moutarde;230;9.10;32.30;6.70;58
+309;Oeuf de poule, entier, cuit dur;157;13.20;0.30;11.40;52
+310;Oeuf de poule, entier, cru;142;11.90;0.30;10.30;52
+311;Jaune d'oeuf, cru;350;16.50;0.20;31.50;52
+312;Blanc d'oeuf, cru;44;10.50;0.30;0.10;52
+313;Légumineuses (moyenne), cuites (sans adjonction de sel ni de graisse);138;9.70;16.40;2.60;80
+314;Légumineuses (moyenne), séchées;335;25.10;39.30;4.90;80
+315;Cottage cheese (fromage frais granulé), nature;101;12.70;2.40;4.50;38
+425;Lait condensé, sucré;339;8.00;54.30;10.00;40
+316;Purée de pommes de terre, préparée (avec de l'eau et du beurre);81;2.00;11.50;2.80;84
+318;Sauce de salade au yogourt (sans huile);68;3.70;5.70;3.30;32
+319;Yogourt bifidus, nature;49;4.10;4.50;3.60;43
+320;Yaourt sucré (moyenne);105;3.80;14.70;3.40;43
+321;Yogourt maigre avec arômes, édulcoré;48;4.70;7.00;0.10;43
+322;Yogourt maigre aux fruits, édulcoré;50;4.70;7.00;0.10;43
+323;Yogourt aux fraises;101;3.50;15.20;2.70;43
+324;Yogourt aux noisettes;119;3.90;15.00;4.60;43
+325;Yogourt au café;100;3.80;14.10;3.10;43
+326;Yogourt au café, bio;96;3.50;13.10;3.30;43
+327;Yogourt, nature;66;4.00;4.50;3.60;43
+328;Yogourt, nature, maigre;40;4.30;5.50;0.10;43
+329;Yogourt au chocolat;120;4.00;16.90;3.90;43
+330;Yogourt à la vanille;98;3.80;14.00;3.00;43
+331;Groseille rouge, crue;45;1.10;5.00;0.50;23
+332;Cassis, cru;58;1.30;9.00;0.30;23
+333;Tarte aux groseilles, cuite au four (pâtes feuilletée);135;2.80;12.10;7.10;101
+334;Tarte aux groseilles, cuite au four (pâte à gateau);127;3.20;14.30;5.00;101
+335;Tarte aux groseilles, cuite au four (pâte brisée sucrée);200;3.30;18.40;11.40;101
+336;Café instantané, poudre;253;11.20;42.60;0.00;9
+337;Café, noir, non sucré;2;0.10;0.30;0.00;9
+338;Crème à café UHT;161;2.70;3.80;15.00;26
+339;Cacao en poudre;408;19.80;10.80;24.50;97
+340;Kaki, cru;71;0.70;15.30;0.20;23
+341;Veau, poitrine, cuite (sans adjonction de graisse ni de sel);291;26.10;0.00;20.70;112
+342;Veau, poitrine, crue;204;18.30;0.00;14.50;112
+343;Veau, noix, escalope, crue;103;22.20;0.00;1.60;112
+344;Veau, filet, cru;119;21.20;0.00;3.80;112
+345;Veau, haché, cru;104;20.50;0.00;2.40;112
+346;Veau, émincé, grillée ( (sans adjonction de graisse ni de sel);132;29.70;0.00;1.50;112
+347;Veau, émincé, cru;98;22.00;0.00;1.10;112
+348;Veau, jarret, cuite (sans adjonction de graisse ni de sel);191;32.30;0.00;6.90;112
+349;Veau, jarret, cru;122;20.70;0.00;4.40;112
+350;Veau, côtelette, crue;161;20.70;0.00;8.70;112
+351;Veau, foie, cru;135;19.60;4.60;4.20;112
+352;Veau, ris, cru;99;17.20;0.00;3.40;112
+353;Veau, rognon, cru;112;15.80;1.00;5.00;112
+354;Veau, filet, steak, grillée mi-saignant (sans adjonction de graisse ni sel);160;28.60;0.00;5.10;112
+355;Veau, filet, steak, cru;113;22.80;0.00;2.40;112
+356;Veau, pièce ronde, tranche, cru;104;21.90;0.00;1.80;112
+357;Veau, épaule, rôti, cuit au four (sans adjonction de graisse ni de sel);185;30.10;0.00;7.20;112
+358;Veau, épaule, rôti, crue;124;20.20;0.00;4.80;112
+359;Veau, ragoût, cru;102;20.00;0.00;2.40;112
+360;Veau, langue, crue;181;17.20;1.90;11.60;112
+361;Viande de veau (moyenne sans abats ni côtelette), crue;128;21.10;0.00;4.80;112
+362;Saucisse de veau;228;12.50;1.20;19.20;74
+363;Piccata de veau, préparée;223;23.30;5.50;11.90;58
+364;Veau, escalope, grillée (sans adjonction de graisse ni de sel);140;30.00;0.00;2.20;112
+365;Escalope de veau, grillée au colza HOLL;196;28.20;0.00;9.20;112
+366;Ragoût de veau avec sauce, préparé;91;11.60;3.00;3.50;58
+367;Calamar, cru;83;16.00;2.30;1.10;68
+368;Lapin (moyenne), cuit (sans adjonction de graisse ni de sel);205;28.10;0.00;10.30;107
+369;Lapin (moyenne), cru;150;20.50;0.00;7.50;107
+370;Lapin, filet, cru;111;24.30;0.00;1.50;107
+371;Carotte, à la vapeur (sans adjonction de sel);41;0.90;7.30;0.30;46
+372;Carotte, crue;38;0.80;6.60;0.30;47
+373;Jus de carotte;33;0.70;6.80;0.10;12
+374;Pomme de terre, épluchée, à la vapeur (sans adjonction de sel);77;2.00;15.90;0.10;84
+375;Pomme de terre, épluchée, crue;76;2.00;15.60;0.10;84
+376;Flocons de pomme de terre, avec poudre de lait et sel (purée instantanée);366;11.30;65.50;5.40;84
+377;Gratin de pommes de terre dauphinois, préparé;128;2.60;11.30;7.80;66
+378;Gratin de pommes de terre savoyard, préparé;75;2.20;10.60;2.30;66
+379;Salade de pommes de terre, sauce au vinaigre et huile;97;1.70;13.10;3.80;64
+380;Salade de pommes de terre (sauce mayonnaise et yogourt);82;1.80;12.60;2.20;64
+381;Fécule de pommes de terre;336;0.60;83.10;0.10;79
+382;Purée de pommes de terre, préparée (avec de la crème et du beurre);140;2.00;13.20;8.40;84
+383;Purée de pommes de terre, préparée (avec du lait partiellement écrémeé et du beurre);90;2.20;13.50;2.60;84
+384;Purée de pommes de terre, préparée (avec du lait entier et du beurre);91;2.20;13.50;2.80;84
+385;Feta (lait de vache);262;17.50;1.40;20.70;39
+386;Feta (lait de brebis et chèvre);243;17.00;1.50;18.80;39
+387;Gateau au fromage, cuit au four (pâte feuilletée);304;14.40;11.70;22.00;66
+388;Gateau au fromage, cuit au four (pâte à gateau);293;14.90;14.60;19.20;66
+389;Beurre de fromagerie;746;0.40;0.60;82.50;28
+390;Croûte au fromage, préparée;272;14.80;26.00;11.50;58
+392;Pois mange-tout, à la vapeur (sans adjonction de sel);77;4.60;11.40;0.20;46
+393;Pois mange-tout, cru;68;4.00;10.00;0.20;47
+394;Ketchup;117;2.00;26.00;0.40;20
+395;Pois chiche, cuit (sans adjonction de graisse ni de sel);131;7.40;17.70;2.00;80
+396;Pois chiche, sec;327;18.60;44.30;4.90;80
+397;Eau-de-vie de cerises (Kirsch);245;0.00;0.00;0.00;2
+398;Cerise, cuite,  égouttée (sans adjonction de sucre);86;1.50;17.60;0.60;22
+399;Cerise, crue;74;1.30;15.30;0.50;23
+400;Tarte aux cerises, cuite au four (pâte feuilletée);154;3.00;18.90;7.10;101
+401;Tarte aux cerises, cuite au four (pâte à gateau);146;3.40;21.10;5.00;101
+402;Kiwi, cru;54;1.10;9.90;0.60;23
+403;Pain croustillant, au blé entier;327;10.40;62.40;1.80;56
+404;Pain croustillant, au blé entier, au grains de lin;340;11.80;56.10;4.70;56
+405;Pain croustillant, au blé entier, au sésame;353;11.30;57.10;6.60;56
+406;Ail, cru;136;7.00;24.50;0.50;47
+407;Céleri-rave, à la vapeur (sans adjonction de sel);30;1.60;2.60;0.30;46
+408;Céleri-rave, cru;28;1.50;2.40;0.30;47
+409;Farine à spätzli;350;12.40;70.50;1.20;78
+410;Beurre de cuisine;745;0.50;0.70;82.20;28
+411;Produits de salaison cuits (moyenne);222;19.80;0.70;15.60;76
+412;Sel de cuisine avec iode;0;0.00;0.00;0.00;21
+413;Sel de cuisine avec iode et fluor;0;0.00;0.00;0.00;21
+414;Sel de cuisine sans iode ni fluor;0;0.00;0.00;0.00;21
+415;Lard à cuire, fumé;322;17.80;0.60;27.60;75
+416;Produits de charcuterie à chair cuite (moyenne);314;15.80;1.20;27.20;76
+417;Légumes crucifères (famille des choux) moyenne, cuits (sans adjonction de sel ni de graisse);29;2.20;3.00;0.30;46
+418;Légumes crucifères (famille des choux) moyenne, crus;29;2.20;3.00;0.30;47
+419;Chou-pomme, à la vapeur (sans adjonction de sel);30;2.10;4.10;0.20;46
+420;Chou-pomme, cru;27;1.90;3.70;0.20;47
+421;Huile de coco;894;0.80;0.00;99.00;27
+422;Macaron au coco;554;5.90;35.80;40.20;94
+423;Noix de coco;497;8.90;16.00;42.00;51
+426;Lait condensé, non sucré;132;6.50;9.70;7.50;40
+427;Confiture;246;0.50;58.70;0.50;98
+428;Confiture, avec valeur énergétique réduite, édulcorée;136;0.50;31.90;0.50;98
+429;Laitue pommée, crue;14;1.20;1.10;0.20;47
+430;Côtelette (moyenne de veau, boeuf, agneau), grillée (sans adjonction de graisse ni de sel);250;30.00;0.00;14.40;105
+431;Côtelette (moyenne de veau, porc, agneau), crue;177;21.30;0.00;10.20;111
+432;Crustacé, cru (moyen);75;15.50;1.00;1.00;68
+433;Pâte à gateau (avec beurre), crue;329;6.80;38.70;15.90;82
+434;Pâte à gateau (avec graisse végétale), crue;325;6.80;38.70;15.50;82
+435;Piccata de courges, préparée;165;4.70;9.00;12.00;58
+436;Graine de courge;603;32.60;4.70;49.10;51
+437;Tranches de courge, panées, préparées;140;4.40;16.70;5.80;58
+438;Saumon fumé;167;23.20;0.00;8.20;71
+439;Saumon sauvage, cru;182;19.70;0.00;11.50;71
+440;Saumon, élevage, filet, à la vapeur (sans adjonction de graisse ni de sel);251;24.90;0.00;16.80;71
+441;Saumon d'élevage, cru;200;19.90;0.00;13.40;71
+442;Agneau, filet, grillé à point (sans adjonction de graisse ni de sel);149;27.20;0.00;4.50;106
+443;Agneau, filet, cru;112;20.40;0.00;3.40;106
+444;Agneau, gigot, rôti (sans adjonction de graisse ni de sel);230;30.10;0.00;12.20;106
+445;Agneau, gigot, cru (Suisse, Nouvelle-Zélande);155;20.20;0.00;8.20;106
+446;Agneau, côtelette, crue (Suisse);179;20.20;0.00;10.90;106
+447;Agneau, filet, cru (Australie, Nouvelle-Zélande);117;21.80;0.00;3.30;106
+448;Agneau, rack, crue (Australie, Nouvelle-Zélande);156;20.30;0.00;8.30;106
+449;Agneau, ragoût, cru (Suisse);154;19.60;0.00;8.40;106
+450;Agneau/mouton (moyenne sans abats ni côtelette), cru;134;20.50;0.00;5.80;106
+451;Ragoût d'agneau avec sauce, préparé;123;11.70;3.10;7.00;58
+452;Gendarme;491;26.60;0.00;42.70;75
+453;Latte macchiato, non sucré;47;2.30;3.20;2.80;34
+454;Laitue, crue;16;1.20;1.30;0.30;47
+455;Poireau, à l'étuvée (sans adjonction de graisse ni de sel);33;1.80;4.20;0.30;46
+456;Poireau, cru;30;1.60;3.70;0.30;47
+513;Omelette à la farine, préparée;166;7.50;20.40;5.80;58
+457;Petit pain de Sils;277;8.80;48.40;4.80;57
+458;Bretzel, sticks salés, secs;360;8.60;72.10;4.00;90
+459;Croissant de Sils;419;8.70;38.90;25.00;57
+460;Foie (moyenne de veau, boeuf, porc, poulet), cru;226;17.80;2.80;15.90;118
+461;Foie (moyenne de boeuf, veau, porc, volaille), grillé (sans adjonction de graisse ni de sel);275;21.70;3.40;19.40;105
+462;Boudin blanc;292;20.80;0.50;22.90;76
+463;Pain d'épice;405;6.50;61.60;13.80;92
+464;Pain d'épice, enrobé de chocolat;445;6.50;60.20;19.00;92
+465;Graine de lin;472;17.90;10.80;33.60;51
+466;Lemon Curd;320;6.00;37.50;16.20;99
+467;Limburger/Münster;275;20.40;0.00;21.40;35
+468;Limonade, avec arômes, sucrée;38;0.00;9.50;0.00;5
+469;Lentille, entière, cuite (sans adjonction de graisse ni de sel);121;8.80;18.50;0.40;80
+470;Lentille, entière, sèche;324;24.40;44.80;1.50;80
+471;Lentille, décortiquée, cuite (sans adjonction de graisse ni de sel);139;11.30;20.00;0.60;80
+472;Lentille, décortiquée, sèche;334;27.00;48.00;1.50;80
+473;Tourte de Linz;425;7.50;43.70;23.60;100
+474;Pélerines;414;12.20;71.80;8.30;94
+475;Luganiga;459;17.10;0.50;43.00;75
+476;Saucisse de Lyon;244;11.50;0.50;21.80;74
+477;Madeleines;346;7.50;52.20;11.60;92
+478;Lait écrémé, UHT;33;3.40;4.70;0.10;40
+479;Lait écrémé en poudre;356;35.50;51.50;0.90;40
+480;Milanais;431;7.10;53.10;20.80;94
+481;Chips de maïs;509;7.80;56.00;27.20;87
+980;Courgette, crue;19;1.80;2.00;0.20;47
+482;Maïs doux, à la vapeur (sans adjonction de sel);105;3.80;17.80;1.40;46
+483;Maïs doux, cru;92;3.30;15.70;1.20;47
+484;Semoule de maïs, cuite;79;2.00;16.70;0.20;81
+485;Semoule de maïs (polenta), sèche;350;8.80;73.80;1.10;81
+486;Huile de maïs;809;0.00;0.00;89.90;29
+487;Maïs doux en épis au vinaigre;119;3.40;21.00;1.40;46
+488;Fécule de maïs;354;0.30;88.00;0.00;79
+489;Mandarine, crue;47;0.70;10.00;0.20;23
+490;Amande;576;21.20;4.00;49.90;51
+491;Amande, grillée, salée;631;21.20;7.20;55.20;88
+492;Amande, grillée sans graisse, salée;620;22.10;10.30;52.10;88
+493;Mangue, crue;62;0.60;13.40;0.20;23
+494;Bette, à la vapeur (sans adjonction de sel);31;2.80;3.60;0.30;46
+495;Bette, crue;23;2.10;2.70;0.20;47
+496;Margarine;724;0.50;0.50;80.00;27
+497;Cake marbré;357;7.30;42.60;17.20;100
+498;Massepain;467;6.10;68.60;17.60;93
+499;Coeurs de France;438;4.70;53.80;22.40;94
+500;Mascarpone;453;7.60;0.00;47.00;38
+501;Mayonnaise;742;1.10;0.50;81.70;31
+502;Mayonnaise, avec valeur énergétique réduite;327;0.90;3.20;34.50;31
+503;Mayonnaise, préparée à la maison avec de l'huile de colza;791;2.40;0.20;86.70;31
+504;Farine (moyenne);343;12.40;67.80;1.40;78
+505;Farine claire (moyenne);344;12.20;68.90;1.30;78
+506;Omelette à la farine aux champignons, préparée;124;5.30;10.80;6.30;58
+507;Omelette à la farine aux légumes, préparée;137;5.70;16.20;5.20;58
+508;Omelette à la farine au fromage, préparée;196;10.00;18.20;9.00;58
+509;Omelette à la farine au Nutella, préparée;259;7.10;29.00;12.40;59
+510;Omelette à la farine au jambon, préparée;157;9.80;17.30;5.20;58
+511;Omelette à la farine au lard, préparée;194;9.30;17.30;9.50;58
+512;Omelette à la farine au sucre et cannelle, préparée;178;7.10;24.50;5.50;59
+514;Mélasse, sirop de mélasse;274;1.20;67.20;0.00;98
+515;Meringue;400;5.00;94.00;0.50;93
+516;Moule, crue;85;11.70;3.40;2.70;68
+517;Lait (en moyenne);62;3.30;4.60;3.40;40
+518;Café au lait (foncé), non sucré;16;0.80;1.20;0.90;34
+519;Café au lait (claire), non sucré;22;1.10;1.60;1.20;34
+520;Café au lait, non sucré;20;1.00;1.40;1.10;34
+521;Riz au lait, préparé (avec du lait partiellement écrémé);132;5.40;19.50;3.50;99
+522;Riz au lait, préparé (avec du lait entier);144;5.20;19.50;5.00;99
+523;Chocolat au lait;537;6.50;56.90;31.10;96
+524;Chocolat au lait fourré à l‘alcool;488;5.40;59.10;23.00;96
+525;Chocolat au lait fourré à la crème (Gianduja, Nougat);571;6.90;47.20;38.50;96
+526;Chocolat au lait, avec nougat aux amandes et au miel;534;7.00;54.70;31.40;96
+527;Chocolat au lait, avec noisettes;566;8.40;45.60;38.10;96
+528;Chocolat au lait avec raisins secs, noisettes et amandes;511;7.50;51.20;29.60;96
+529;Minestrone;53;2.00;7.00;1.80;63
+530;Saucisse type Minipic;460;26.10;0.80;39.10;75
+531;Mirabelle, cuite,  égouttée (sans adjonction de sucre);65;0.80;13.80;0.20;22
+532;Mirabelle, crue;57;0.70;12.00;0.20;23
+533;Olives farcies avec de la viande hachée, frites;320;14.10;32.30;14.00;86
+534;Petit lait, doux;24;0.80;4.70;0.20;33
+535;Morille, à l'étuvée (sans adjonction de graisse ni de sel);31;2.10;0.60;0.40;44
+536;Morille, crue;26;1.70;0.50;0.30;44
+537;Mortadella;305;15.70;0.80;26.60;74
+538;Mostbröckli;150;32.60;0.50;1.90;75
+539;Mozzarella;253;18.70;0.70;19.50;37
+540;Pâte brisée (avec beurre), sucrée, crue;424;7.80;45.80;22.90;82
+541;Pâte brisée (avec graisse végétale), sucrée, crue;419;7.80;45.80;22.40;82
+793;Tourte fôret noire;248;3.90;21.40;16.10;100
+542;Petit pain;254;8.70;51.80;0.80;57
+543;Nasi Goreng, préparé;126;11.00;16.10;1.90;61
+544;Nectarine, crue;51;0.90;10.20;0.20;23
+545;Croissant aux noisettes, pâte feuilletée;416;6.60;35.60;26.90;92
+546;Croissant aux noisette, pâte levée;315;7.50;41.50;12.60;92
+547;Mâche, crue;23;2.00;2.00;0.40;47
+548;Escargot aux noisette, pâte levée;442;12.00;54.40;18.70;92
+549;Frites au four, surgelées;127;1.80;18.20;4.90;84
+550;Olive, verte;126;1.30;0.00;12.50;51
+551;Olive, noire;150;0.90;3.00;14.00;51
+552;Huile d'olive;809;0.00;0.00;89.90;29
+553;Orange, crue;44;1.00;8.60;0.20;23
+554;Nectar d'orange;44;0.40;10.50;0.00;7
+555;Jus d'orange;51;0.50;11.10;0.50;25
+556;Jus d'orange, enrichi de vitamine C;55;0.50;12.00;0.50;25
+557;Graisse de palme - Huile de palme;799;0.00;0.00;88.80;30
+558;Pancetta;467;19.50;0.40;43.00;75
+559;Panettone;354;6.40;56.50;10.70;92
+560;Chapelure;370;14.20;71.80;1.90;78
+561;Flan au caramel;125;3.40;23.00;2.10;99
+562;Pantli;538;21.10;0.90;50.00;75
+563;Paprika (épice);358;14.80;34.90;13.00;21
+564;Noix du Brésil;692;16.60;3.20;66.50;51
+565;Baguette parisienne ;254;9.00;51.10;0.90;57
+566;Parmesan;374;36.00;0.00;25.60;35
+567;Fruit de la passion, cru;92;2.20;11.80;0.50;23
+568;Pâté de campagne;391;13.20;1.00;36.90;76
+569;Poivron, vert, à l'étuvée (sans adjonction de graisse ni de sel);26;1.00;3.40;0.40;46
+570;Poivron, vert, cru;20;0.80;2.60;0.30;47
+571;Poivron, rouge, à l'étuvée (sans adjonction de graisse ni de sel);42;1.20;6.80;0.50;46
+572;Poivron, rouge, cru;32;0.90;5.20;0.40;47
+573;Persil, cru;56;3.90;6.80;0.50;45
+574;Menthe, crue;49;3.80;5.30;0.70;45
+575;Cheval, filet, grillé à point (sans adjonction de graisse ni de sel);141;29.30;0.00;2.60;107
+576;Cheval, filet, cru;103;21.40;0.00;1.90;107
+577;Ragoût de cheval avec sauce, préparé;94;12.70;3.10;3.30;58
+578;Pêche, sucrée, conserve;83;0.40;19.00;0.20;22
+579;Pêche, crue;48;0.50;10.00;0.20;23
+580;Pêche, non sucrée, conserve;48;0.50;10.00;0.20;22
+581;Pruneau, cuite,  égouttée (sans adjonction de sucre);59;0.70;12.60;0.20;22
+582;Pruneau, sec;204;2.50;39.80;0.30;24
+583;Prune, crue;48;0.60;10.20;0.20;23
+584;Tarte aux prunes, cuite au four (pâte feuilletée);137;2.50;15.50;6.90;101
+585;Tarte aux prunes, cuite au four (pâte à gateau);129;2.90;17.80;4.80;101
+586;Champignons (moyenne), à l'étuvée (sans adjonction de graisse ni de sel);31;2.90;0.70;0.50;44
+587;Champignons (moyenne), crus;25;2.40;0.60;0.40;44
+588;Risotto au champignon, cuit;126;4.00;18.70;3.60;58
+589;Sauce aux champignons, liée;82;3.60;7.60;4.00;20
+590;Soupe velouté de champignons;38;1.10;5.50;1.20;63
+591;Pignon de pin;594;31.60;13.90;44.90;51
+592;Pistache;580;20.30;17.60;45.40;51
+593;Pizza au thon, cuite au four;227;12.20;26.50;7.70;62
+594;Pizza Calzone, cuite au four;226;11.50;26.60;7.80;62
+595;Pizza Hawaii, cuite au four;195;9.50;24.20;6.40;62
+596;Pizza Margherite, cuite au four;238;9.90;29.90;8.40;62
+597;Pizza aux légumes, cuite au four;124;5.60;17.40;3.10;62
+598;Pizza au mascarpone et roquette, cuite au four;240;9.60;27.40;9.90;62
+599;Pizza au jambon et champignon, cuite au four;205;10.60;24.00;7.00;62
+600;Pizza au jambon, cuite au four;219;10.60;28.70;6.50;62
+601;Pizza aux quatre fromages, cuite au four;297;12.90;37.20;10.30;62
+602;Pâte à pizza (avec graisse végétale), crue;229;7.00;41.20;3.60;82
+603;Escalope (moyenne de volaille, veau, boeuf, porc), grillée (sans adjonction de graisse ni de sel);155;30.40;0.10;3.70;105
+604;Escalope (moyenne de veau, boeuf, porc, poulet), crue;114;22.20;0.10;2.70;114
+605;Polenta nera, préparée;103;4.60;12.90;3.40;81
+607;Pommes Chips à matière grasse réduite;467;5.90;59.40;21.90;87
+608;Pommes frites (cuites au four), non salées;230;3.30;33.10;8.90;84
+609;Pommes frites (frites dans de l'huile de tournesol HO), non salées;285;3.20;32.50;15.30;84
+610;Popcorn ;367;12.00;62.90;4.20;86
+611;Vin de Porto, 18.5 vol%;152;0.20;12.00;0.00;3
+612;Poulet, poitrine, avec peau, crue (France);126;24.00;0.00;3.30;117
+613;Poulet, poitrine, avec peau, crue (Suisse);152;23.30;0.00;6.50;117
+614;Poulet, poitrine, sans peau, crue (France);109;25.20;0.00;0.90;117
+615;Poulet, poitrine, sans peau, crue (Suisse);107;24.60;0.00;1.00;117
+616;Poulet, poitrine, escalope ou émincé, grillé (sans adjonction de graisse ni de sel);131;28.90;0.50;1.50;117
+617;Poulet, poitrine, escalope (émincé), crue;105;23.10;0.40;1.20;117
+618;Poulet, entier avec la peau, rôti (sans adjonction de graisse ni de sel);224;25.10;0.00;13.70;117
+619;Poulet entier, avec peau, cru;168;18.80;0.00;10.30;117
+620;Poulet, cuisse avec la peau, rôti (sans adjonction de graisse ni de sel);218;23.90;0.00;13.60;117
+621;Poulet, cuisse, avec peau, crue;184;17.60;0.00;12.60;117
+622;Poulet, cuisse, avec peau, crue (France);145;19.40;0.00;7.50;117
+623;Poulet, cuisse, avec peau, crue (Suisse);163;17.90;0.00;10.20;117
+624;Poulet, cuisse, sans peau, crue (France);121;20.60;0.00;4.30;117
+625;Poulet, cuisse, sans peau, crue (Suisse);135;19.70;0.00;6.20;117
+626;Airelle rouge, crue;40;0.30;7.10;0.50;23
+629;Séré, mi-gras;99;9.60;4.00;5.00;38
+630;Séré maigre;62;10.80;4.20;0.20;38
+631;Séré à la crème;183;7.00;3.70;15.60;38
+632;Pâte feuilletée au séré (avec beurre), crue;401;7.10;28.90;28.30;82
+633;Pâte feuilletée au séré (avec graisse végétale), crue;396;7.10;28.90;27.70;82
+634;Quiche Lorraine, cuite au four (pâte feuilletée);305;8.50;11.50;24.90;66
+635;Quiche Lorraine, cuite au four (pâte à gateau);293;9.00;14.60;21.90;66
+636;Coing, cuit, égoutté (sans adjonction de sucre);51;0.40;7.90;0.20;22
+637;Coing, cru;41;0.30;6.30;0.20;23
+638;Fromage à raclette;359;26.40;0.00;27.90;35
+639;Petit radis, cru;16;1.00;2.10;0.10;47
+640;Crème (en moyenne);252;2.40;3.40;25.40;26
+641;Crème glacée, aux fruits;185;3.50;24.70;8.00;103
+642;Caramel mou à la crème;351;0.40;79.30;3.60;95
+643;Betterave rouge, à la vapeur (sans adjonction se sel);57;1.90;10.50;0.10;46
+644;Betterave rouge, crue;46;1.50;8.40;0.10;47
+645;Huile de colza;809;0.00;0.00;89.90;29
+646;Huile de colza HOLL (high oleic, low linolenic);810;0.00;0.00;90.00;29
+647;Ratatouille, préparée;48;1.50;4.60;2.10;46
+648;Salami fumé;513;21.40;0.90;47.00;75
+649;Reblochon;308;20.30;0.00;25.20;36
+650;Chevreuil (moyenne), crue;122;22.40;0.00;3.60;109
+651;Chevreuil, ragoût (civet), cru;105;22.00;0.00;1.90;109
+652;Chevreuil, escalope, cru;105;22.50;0.00;1.70;109
+653;Fromage râpé;396;32.30;0.00;29.40;35
+654;Riz parboiled, cuit à l'eau salée (sel non iodé);119;2.40;26.60;0.20;85
+655;Riz parboiled, sec;349;6.90;78.20;0.60;85
+656;Riz blanc, cuit à l'eau salée (sel non iodé);115;2.20;25.90;0.20;85
+657;Riz blanc, sec;348;6.60;78.30;0.60;85
+658;Riz complet, cuit à l'eau salée (sel non iodé);135;2.80;28.00;1.10;85
+659;Riz complet, sec;357;7.50;73.90;2.80;85
+660;Radis, cru;18;0.60;2.60;0.30;47
+661;Rhubarbe, cru;12;0.60;1.00;0.10;23
+662;Tarte à la rhubarbe, cuite au four (pâte feuilletée);113;2.50;9.40;6.80;101
+663;Tarte à la rhubarbe, cuite au four (pâte à gateau);105;2.90;11.70;4.70;101
+664;Potiron, à la vapeur (sans adjonction de sel);23;0.60;4.50;0.10;46
+665;Courge, crue;23;0.60;4.50;0.10;47
+666;Boeuf, poitrine, cuit (sans adjonction de graisse ni de sel);313;31.50;0.00;20.80;108
+667;Boeuf, poitrine, cru;188;18.90;0.00;12.50;108
+668;Boeuf, coin, tranche, cru;111;22.60;0.00;2.30;108
+669;Boeuf, entrecôte, grillée à point (sans adjonction de graisse ni sel);183;31.80;0.00;6.20;108
+670;Boeuf, entrecôte, cru;138;22.30;0.00;5.40;108
+671;Boeuf, entrecôte, cru (Suisse);133;23.20;0.00;4.50;108
+672;Boeuf, entrecôte, cru (USA);210;21.70;0.00;13.70;108
+673;Boeuf, filet, grillé à point (sans adjonction de graisse ni sel);141;29.20;0.00;2.70;108
+674;Boeuf, filet, cru;106;21.90;0.00;2.00;108
+675;Boeuf, hâché, grillé (sans adjonction de graisse ni de sel);244;34.30;0.00;11.90;108
+676;Boeuf, haché, cru;154;21.60;0.00;7.50;108
+677;Boeuf, émincé, cru;102;22.20;0.00;1.50;108
+678;Boeuf, cou, ragoût (goulache), cru;149;19.30;0.00;8.00;108
+679;Boeuf, entrecôte parisienne, cru (Suisse);165;21.10;0.00;9.00;108
+680;Boeuf, entrecôte parisienne, cru (USA);218;19.30;0.00;15.70;108
+681;Boeuf, foie, cru;138;20.50;5.30;3.90;108
+682;Boeuf, pièce ronde, tranche, cru;106;22.40;0.00;1.80;108
+683;Boeuf, épaule, rôti au four à point (sans adjonction de graisse ni de sel);162;30.00;0.00;4.70;108
+684;Boeuf, épaule, rôti au four, saignant (sans adjonction de graisse ni de sel);150;27.70;0.00;4.40;108
+685;Boeuf, épaule, rôti au four bien cuit (sans adjonction de graisse ni de sel);189;34.80;0.00;5.50;108
+686;Boeuf, épaule, rôti, crue;117;21.60;0.00;3.40;108
+687;Boeuf, bouilli, entremêlé, cru;227;19.50;0.00;16.60;108
+688;Boeuf, bouilli entremêlé, cuit (sans adjonction de graisse ni de sel);289;32.50;0.00;17.70;108
+689;Boeuf, bouilli maigre, cuit (sans adjonction de graisse ni de sel);221;34.50;0.00;9.20;108
+690;Boeuf, bouilli, maigre, cru;132;20.70;0.00;5.50;108
+691;Boeuf, ragoût, cru;96;21.20;0.00;1.30;108
+692;Boeuf, langue, crue;196;16.00;3.70;13.00;108
+693;Viande de bœuf (moyenne sans abats ni côte), crue;134;21.40;0.00;5.40;108
+694;Ragoût de boeuf avec sauce, préparé;91;12.60;3.10;3.00;58
+695;Carré (filet), cru;154;21.70;0.50;7.30;76
+696;Risotto sans fromage, cuit;123;2.20;25.10;1.40;85
+697;Ristretto crème, non sucré;47;0.80;1.30;4.30;9
+698;Riz casimir de veau, préparé;124;6.90;16.00;3.30;58
+699;Riz Casimir au poulet, préparé;126;7.50;16.00;3.30;58
+700;Pain de seigle au levain;210;5.20;41.80;1.00;57
+701;Farine de seigle, type 815;337;7.10;71.80;1.20;78
+702;Farine de seigle, type 1050;333;7.50;68.60;1.50;78
+703;Farine de seigle, complète egrugée, type 1800;325;8.50;63.30;1.70;78
+704;Pain au gruau de seigle;228;6.20;44.30;1.20;57
+705;Lard à manger cru;400;22.10;0.60;34.30;75
+706;Produits de salaison crus (moyenne);304;28.10;0.40;21.10;75
+707;Jambon cru;229;31.00;0.30;11.50;75
+708;Saucisses crues avec maturation interrompue (moyenne);369;15.60;0.60;33.80;75
+709;Saucisses crues (moyenne);454;22.00;0.30;40.50;75
+710;Orge perlé;344;9.60;71.00;1.40;77
+712;Rollschinkli;181;20.30;1.20;10.60;76
+713;Jambon roulé, cuit (sans adjonction de graisse ni de sel);227;25.40;1.50;13.30;73
+714;Roquefort;361;18.70;0.20;31.70;35
+715;Chou de Bruxelles, à la vapeur (sans adjonction de sel);42;3.80;3.40;0.50;46
+716;Chou de Bruxelles, cru;43;4.00;3.50;0.50;47
+717;Raisin, sec;298;2.50;68.00;0.60;24
+718;Romarin, cru;62;0.80;7.70;2.50;45
+719;Rösti (pommes de terre prêtes à rôtir, produit fini);117;2.00;18.60;3.60;84
+720;Chou rouge, à l'étuvée (sans adjonction de graisse ni de sel);28;1.30;3.70;0.30;46
+721;Chou rouge, cru;30;1.40;4.00;0.30;47
+722;Pain bis;234;9.50;44.30;1.20;57
+723;Roquette, crue;28;2.60;2.10;0.70;47
+724;Gateau aux carottes;291;9.80;24.70;16.00;100
+725;Oeufs brouillés aux champignons, préparés;128;9.40;1.50;9.30;58
+726;Oeufs brouillés au fromage, préparés;159;11.60;1.30;11.90;58
+727;Oeufs brouillés aux herbes, préparés;143;10.30;1.80;10.40;58
+728;Oeufs brouillés au jambon, préparés;146;12.70;1.30;10.00;58
+729;Oeufs brouillés, préparés;149;10.80;1.30;11.20;58
+730;Gateau au beurre;431;6.70;44.80;24.80;100
+731;Salade russe, préparée;198;2.50;9.90;15.90;64
+732;Sablés au beurre;475;5.90;53.10;26.20;94
+733;Salametto;342;14.80;0.30;31.30;75
+734;Salami (ligne budget);422;22.00;0.00;37.10;75
+735;Salami type Nostrano;367;24.10;0.00;30.10;75
+736;Sauce de salade française (avec huile de colza);446;0.70;3.00;46.90;32
+737;Sauce de salade italienne (avec huile d'olive);472;0.30;1.40;50.60;32
+738;Sauge, crue;58;1.70;6.90;2.00;45
+739;Salsiz;415;25.20;0.00;34.90;75
+740;Saltimbocca, grillé au colza HOLL;230;30.20;0.10;12.10;112
+741;Graines oléagineuses (moyenne), non salés;600;20.30;11.20;50.60;51
+742;Samosa frite;342;6.30;31.60;20.40;61
+743;Samosa cuite au four;310;6.70;33.50;15.80;61
+744;Sandwich (baguette) à la charcuterie;152;5.00;17.30;6.60;65
+745;Sandwich (baguette) au fromage d'Italie;220;7.90;25.10;9.40;65
+746;Sandwich (baguette) au fromage à pâte mi-dure;179;6.80;20.00;7.60;65
+747;Sandwich (baguette) à la mozzarella;163;5.80;20.10;6.20;65
+748;Sandwich (baguette) au jambon cru;164;8.80;18.70;5.70;65
+749;Sandwich (baguette) au salami;157;5.80;18.30;6.40;65
+750;Sandwich (baguette) au jambon;131;6.30;17.30;3.70;65
+751;Sandwich (baguette) avec viande séchée;141;7.20;18.40;3.90;65
+752;Sandwich (baguette) au fromage à pâte molle;182;6.30;21.30;7.60;65
+753;Sandwich (pain bis) à la charcuterie;143;5.30;15.20;6.40;65
+754;Sandwich (pain bis) au fromage d'Italie;210;8.10;21.90;9.50;65
+755;Sandwich (pain bis) au fromage à pâte mi-dure;172;7.00;17.50;7.70;65
+756;Sandwich (pain bis) à la mozzarella;155;6.00;17.60;6.30;65
+757;Sandwich (pain bis) au jambon cru;157;9.00;16.30;5.80;65
+758;Sandwich (pain bis) au salami;151;5.90;16.20;6.50;65
+759;Sandwich (pain bis) au jambon;125;6.40;15.30;3.80;65
+760;Sandwich (pain bis) avec viande séchée;135;7.40;16.20;4.00;65
+761;Sandwich (pain bis) au fromage à pâte molle;174;6.50;18.60;7.70;65
+762;Anchois à l'huile, égouttée;182;26.40;0.20;8.40;71
+763;Crème d'anchois;272;19.80;0.20;21.30;19
+764;Sardine à l'huile, égouttée;215;23.00;0.00;13.70;71
+765;Sardine, crue;163;20.40;0.00;9.00;71
+766;Saucisse aux choux;362;15.90;1.50;32.30;75
+767;Saucisson;467;16.70;0.50;44.20;75
+768;Saucisson vaudois;358;16.50;0.20;32.30;75
+769;Saucisson vaudois, cuit (sans adjonction de graisse ni de sel);550;20.90;0.60;51.50;75
+770;Choucroute, mariné dans du vinaigre;19;1.30;1.70;0.30;46
+771;Crème acidulée;335;2.30;2.80;35.00;26
+772;Demie-crème acidulé;174;3.00;3.20;16.60;26
+773;Sbrinz (fromage à pâte dure);417;28.60;0.00;33.20;35
+774;Langoustine, crue;93;19.60;0.80;1.30;68
+775;Lait de brebis, cru;105;5.60;4.70;7.10;40
+776;Vin blanc mousseux (p.ex. Champagne);70;0.20;1.50;0.00;3
+777;Fromage fondu en tranches, à la crème;324;13.40;0.00;30.00;41
+778;Fromage fondu en tranches, quart-gras;158;20.10;0.00;8.60;41
+779;Fromage fondu en tranches, gras;305;20.00;0.00;25.00;41
+780;Fromage fondu à tartiner, à la crème;309;11.20;0.00;29.40;41
+781;Fromage fondu à tartiner, quart-gras;161;19.40;0.00;9.30;41
+782;Fromage fondu à tartiner, au lait entier;255;16.00;0.00;21.20;41
+783;Ciboulette, crue;30;3.00;1.90;0.60;45
+784;Sandwich à l'escalope avec sauce cocktail;266;15.10;25.10;11.40;65
+785;Sandwich à l'escalope avec sauce tartare;246;14.40;23.20;10.30;65
+786;Chocolat noir;535;5.20;53.40;31.80;96
+787;Chocolat blanc;568;6.80;55.80;35.20;96
+788;Crème au chocolat;122;3.60;20.00;3.00;99
+789;Kouglof au chocolat;379;6.20;46.30;18.40;100
+790;Chocolat en poudre;402;6.30;71.30;7.80;97
+791;Carrelet, cru;86;17.10;0.00;1.90;71
+792;Boule de Bâle;306;9.90;0.20;29.50;74
+794;Salsifis noir, à la vapeur (sans adjonction de sel);60;1.60;2.30;0.40;46
+795;Salsifis noir, cru;54;1.40;2.10;0.40;47
+796;Porc, fricassée, cru;239;17.90;0.00;18.60;110
+797;Porc, noix, tranche, grillée (sans adjonction de graisse ni de sel);177;34.80;0.00;4.20;110
+798;Porc, noix, tranche, crue;115;22.60;0.00;2.70;110
+799;Porc, filet mignon, rôti (sans adjonction de graisse ni de sel);168;30.80;0.00;5.00;110
+800;Porc, filet mignon, cru;121;22.20;0.00;3.60;110
+801;Porc, haché, cru;158;20.50;0.00;8.50;110
+802;Porc, émincé, grillé (sans adjonction de graisse ni de sel);196;31.30;0.00;7.90;110
+803;Porc, émincé, cru;134;21.30;0.00;5.40;110
+804;Porc, côtelette, grillée (sans adjonction de graisse ni de sel);298;27.80;0.00;20.70;110
+805;Porc, cou, steak, cru;202;18.90;0.00;14.10;110
+806;Porc, jarret, braisé (sans adjonction de graisse ni de sel);267;39.40;1.10;11.70;110
+807;Porc, jarret, cru;174;25.60;0.70;7.60;110
+808;Porc, côtelette, grillé (sans adjonction de graisse ni de sel);276;32.90;0.00;16.00;110
+809;Porc, côtelette, crue;179;21.40;0.00;10.40;110
+810;Porc, foie, cru;130;20.70;0.90;4.90;110
+811;Porc, filet, cru;138;22.90;0.00;5.10;110
+812;Porc, pièce ronde, tranche, cru;126;20.60;0.00;4.90;110
+813;Porc, épaule, rôti au four à point (sans adjonction de graisse ni de sel);229;31.10;0.00;11.60;110
+814;Porc,  épaule, rôti au four bien cuit  (sans adjonction de graisse ni de sel);292;39.70;0.00;14.80;110
+815;Porc, épaule, rôti, cru;181;24.60;0.00;9.20;110
+816;Porc, ragoût, cru;135;20.90;0.00;5.70;110
+817;Viande de porc (moyenne sans abats ni côtelette ni pied), crue;160;21.40;0.00;8.30;110
+818;Saindoux;891;0.00;0.00;99.00;27
+819;Saucisse à rôtir de porc;236;16.20;0.50;18.80;74
+820;Piccata de porc, préparée;233;23.70;5.50;12.80;58
+821;Ragoût de porc avec sauce, préparé;113;12.40;3.10;5.50;58
+822;Petite saucisse de porc, à pocher;268;16.20;0.50;22.40;74
+823;Salami suisse, porc et boeuf;487;22.00;1.30;43.70;75
+824;Merlu, cru;71;17.00;0.00;0.30;71
+825;Lieu noir, cru;80;19.30;0.00;0.30;71
+826;Sole, crue;85;18.70;0.00;1.10;71
+827;Piccata de céléris, préparée;162;5.30;6.80;11.60;58
+828;Tranches de céléri, panées, préparées;138;5.00;13.90;5.70;46
+829;Petit pain Semmeli;262;8.90;53.40;0.80;57
+830;Graine de sésame;589;17.70;11.70;49.80;51
+831;Sherry, 18.5 vol%;118;0.10;3.60;0.00;3
+832;Salade de boeuf bouilli, préparée;227;16.50;1.50;17.00;64
+833;Oignon au vinaigre;28;0.90;4.90;0.20;46
+834;Sirop concentré;371;0.10;91.80;0.20;13
+835;Sirop preparé (dilué en proportion 1:5.5);54;0.00;13.50;0.00;14
+836;Boisson de soja, nature;40;3.90;0.80;2.20;42
+837;Fève de soja, cuite (sans adjonction de graisse ni de sel);173;14.00;11.70;7.00;80
+838;Fève de soja, sèche;387;38.20;6.30;18.30;80
+839;Farine de soja, dégraissée;249;45.20;0.60;1.20;78
+840;Farine de soja, entière;398;40.80;3.10;20.60;78
+842;Pousses de soja, crues;55;5.50;4.70;1.00;50
+843;Graine de tournesol;626;21.30;12.00;53.00;51
+844;Huile de tournesol;809;0.00;0.00;89.90;29
+845;Huile de tournesol HO, raffinée;810;0.00;0.00;90.00;29
+846;Sorbet, aux fruits;136;0.20;32.10;0.00;102
+847;Asperge, à la vapeur (sans adjonction de sel);27;2.20;3.30;0.20;46
+848;Asperge, crue;27;2.20;3.30;0.20;47
+849;Épinard, à la vapeur (sans adjonction de sel);30;3.60;1.00;0.50;46
+850;Épinard, cru;23;2.70;0.80;0.40;47
+851;Gateau aux épinards, cuit au four (pâte feuilletée);178;5.80;10.20;12.20;66
+852;Gateau aux épinards, cuit au four (pâte à gateau);169;6.10;12.30;10.10;66
+853;Eaux-de-vie, 40 vol% (p.e. Abricotine, Brandy, Gin, Rhum, Williamine, Whisky);221;0.00;0.00;0.00;2
+854;Coquin (Sablés à la confiture);499;5.80;60.30;25.60;92
+855;Bürli de St. Gall (farine mi-blanche);231;9.10;44.60;1.00;57
+856;Schüblig de Saint-Gall;292;13.60;0.20;26.30;74
+857;St. Paulin;279;18.00;0.00;23.00;35
+858;Groseille à maquereau, crue;34;0.60;6.20;0.10;23
+859;Céleri branche, à la vapeur (sans adjonction de sel);16;1.00;1.60;0.10;46
+860;Céleri branche, cru;14;0.90;1.50;0.10;47
+861;Bolet, à l'étuvée (sans adjonction de graisse ni de sel);39;4.40;0.60;0.50;44
+862;Bolet, cru;32;3.60;0.50;0.40;44
+863;Surimi;81;12.60;6.10;0.70;72
+864;Taboulé, préparé (avec Boulgour);114;2.40;12.10;5.50;64
+865;Taboulé, préparé (avec Couscous);134;3.00;15.90;6.10;64
+866;Sauce tartare, préparée à la maison avec la mayonnaise de colza;383;3.60;1.90;40.00;20
+867;Thé, non sucré;0;0.00;0.00;0.00;15
+868;Pâtes alimentaires aux oeufs, cuites à l'eau salée (sel non iodé);137;5.00;26.30;1.00;83
+869;Pâtes alimentaires aux oeufs, sèches;365;13.30;69.90;2.80;83
+870;Pâtes alimentaires sans oeufs, cuites à l'eau salée (sel non iodé);165;5.80;32.80;0.60;83
+871;Pâtes alimentaires sans oeufs, sèches;353;12.50;70.50;1.20;83
+872;Pâtes alimentaires au blé complet, cuites à l'eau salée (sel non iodé);159;6.20;28.20;1.20;83
+873;Pâtes alimentaires au blé complet, sèches;342;13.40;60.60;2.50;83
+874;Gratin de pâtes au jambon, préparé;167;10.40;15.10;7.00;66
+875;Salade de pâte à la sauce française;131;5.50;13.30;5.80;64
+876;Salade de pâte à la sauce italienne;133;5.40;13.30;6.10;64
+877;Lait partiellement écrémé, pasteurisé;57;3.20;4.70;2.80;40
+878;Lait partiellement écrémé, UHT;57;3.40;4.60;2.80;40
+879;Pain tessinois;323;10.30;57.20;5.20;57
+880;Tête de Moine;419;24.70;0.00;35.50;35
+881;Thon à l'huile, égoutté;186;27.60;0.00;8.40;71
+882;Thon au naturel, égoutté;117;25.60;0.00;1.60;71
+883;Salade de thon au naturel, sauce au vinaigre et huile;110;9.00;6.80;4.80;64
+885;Thym, cru;52;1.50;7.40;1.20;45
+886;Tilsit au lait pasteurisé, gras;353;24.60;0.00;28.00;35
+887;Tilsit au lait cru, gras;378;26.10;0.00;30.20;35
+888;Cake tyrolien;411;8.10;41.10;23.20;100
+889;Pain de mie au beurre;316;8.90;45.70;10.40;57
+890;Pain de mie à huile végétale;332;8.90;45.60;12.20;57
+891;Tofu;81;8.10;0.70;4.80;91
+892;Tomate, à l'étuvée (sans adjonction de graisse ni de sel);28;1.00;4.20;0.40;46
+893;Tomate, pelée, conserve;19;0.90;3.00;0.20;46
+894;Tomate, crue;21;0.80;3.20;0.30;47
+895;Gateau aux tomates, cuit au four (pâte feuilletée);156;3.50;10.00;11.10;66
+896;Gateu aux tomates, cuit au four (pâte à gateau);146;3.90;12.30;8.80;66
+897;Concentré de tomates;77;4.50;12.90;0.20;46
+898;Jus de tomate;15;0.80;3.00;0.00;12
+899;Sauce tomate;69;1.80;9.70;2.10;20
+900;Soupe de tomate;42;1.00;6.60;1.10;63
+901;Tomme;286;20.70;0.00;22.50;36
+902;Raisin, cru;69;0.70;15.20;0.30;23
+903;Huile de pépins de raisin;809;0.00;0.00;89.90;29
+904;Jus de raisin;62;0.20;15.00;0.10;25
+905;Sucre de raisin;399;0.00;99.80;0.00;104
+906;Eau potable (en moyenne en Suisse);0;0.00;0.00;0.00;10
+907;Viande séchée ( du Grison, du Tessin, du Valais);190;39.30;0.40;3.50;75
+908;Dinde, poitrine, escalope ou émincé, grillée (sans adjonction de graisse ni de sel);146;32.40;0.00;1.80;117
+909;Dinde, poitrine, escalope ou émincé, crue;108;24.00;0.00;1.30;117
+910;Vacherin Mont d'Or;280;17.60;0.00;23.20;36
+911;Crème à la vanille, cuite;140;3.20;23.80;3.60;99
+912;Vinaigrette (avec huile de colza);259;4.40;2.30;25.20;32
+913;Vitello tonnato avec garniture;179;19.20;0.80;11.00;112
+914;Vitello tonnato sans garniture;208;23.20;0.50;12.60;112
+915;Gallette de riz complet;392;8.20;81.50;2.80;56
+916;Lait entier, pasteurisé;68;3.30;4.70;4.00;40
+917;Lait entier, UHT;68;3.30;4.60;4.10;40
+918;Lait entier en poudre;480;24.70;35.10;26.20;40
+919;Crème entière, pasteurisée;334;2.00;3.10;34.80;26
+920;Crème entière, UHT;334;2.00;3.10;34.90;26
+921;Jambon cuit de devant;106;18.60;0.40;3.30;76
+922;Beurre de choix;746;0.70;0.70;82.30;28
+923;Pain de seigle valaisan;220;6.30;42.70;1.10;57
+924;Pâte wasabi;308;2.90;49.60;10.60;20
+925;Glace à l'eau;88;0.00;22.00;0.00;102
+926;Pastèque, crue;30;0.50;6.30;0.30;23
+927;Caramel mou;448;2.10;71.10;17.20;95
+928;Fromage à pâte molle (en moyenne sans produits en matières grasses reduites);324;19.30;0.00;27.40;36
+929;Fromage à pâte molle, double crème;363;12.00;0.00;35.00;36
+930;Vin rouge, 12 vol%;69;0.20;0.30;0.00;3
+931;Vin rouge, 13.5 vol%;76;0.00;0.20;0.00;3
+932;Vin rouge, 9 vol%;54;0.20;0.20;0.00;3
+933;Vin blanc, 11 vol%;70;0.10;2.00;0.00;3
+934;Vin blanc, 12.5 vol%;71;0.20;0.10;0.00;3
+935;Vin blanc dilué avec de l'eau gazeuse;35;0.10;0.00;0.00;3
+936;Vin blanc dilué avec limonade;55;0.10;4.80;0.00;3
+937;Pain blanc;242;8.50;48.90;0.80;57
+938;Chou blanc, à la vapeur (sans adjonction de sel);30;1.40;4.20;0.20;46
+939;Chou blanc, à l'étuvée (sans adjonction de graisse ni de sel);32;1.50;4.50;0.20;46
+940;Chou blanc, cru;30;1.40;4.20;0.20;47
+941;Saucisse blanche;202;9.80;0.90;17.70;74
+942;Blé tendre, grains entiers;325;10.90;59.60;1.80;77
+943;Blé, flocons complets;329;11.70;61.00;2.00;53
+944;Germe de blé;355;25.00;33.30;10.00;54
+945;Huile de germes de blé;809;0.00;0.00;89.90;29
+946;Son de blé;262;14.90;17.70;4.60;53
+947;Farine de blé (farine blanche), type 550;344;12.00;69.50;1.30;78
+948;Farine de blé (farine mi-blanche), type 720;340;13.00;66.20;1.50;78
+949;Farine de blé (farine bise), type 1100;339;13.50;64.60;1.70;78
+950;Farine de blé, complète, type 1700;338;13.50;61.00;2.00;78
+951;Farine de blé (farine fleur), type 400;346;11.50;71.00;1.10;78
+952;Potée au blé, cuite;171;5.10;27.70;3.00;58
+953;Amidon de blé ;348;0.40;85.80;0.10;79
+954;Pain complet de froment;213;8.60;38.30;1.30;57
+955;Vermouth, 15 vol% (p.e. Martini);139;0.10;13.50;0.00;3
+956;Saucisse de Vienne;242;13.90;0.60;20.40;74
+957;Saucisse de Vienne, cuit;235;13.50;0.60;19.80;74
+958;Gibier (moyenne), cuit (sans adjonction de graisse ni de sel);158;28.90;0.00;4.70;109
+959;Gibier (moyenne), cru;115;21.10;0.00;3.40;109
+960;Terrine de gibier;286;17.30;1.80;23.00;109
+961;Sanglier (moyenne), cru;109;19.50;0.00;3.40;109
+962;Chou frisé, à la vapeur (sans adjonction de sel);31;2.80;2.90;0.30;46
+963;Chou frisé, cru;31;2.80;2.90;0.30;47
+964;Salade de cervelas et fromage, préparée;264;13.90;0.80;22.60;64
+965;Salade de cervelas, préparée;226;7.10;1.60;21.00;64
+966;Légumes racines et tubercules (moyenne), à la vapeur (sans adjonction de sel);40;1.10;6.60;0.30;46
+967;Légumes racines et tubercules (moyenne), à l'étuvée (sans adjonctions de graisse ni de sel);35;1.00;5.80;0.30;46
+968;Légumes racines et tubercules (moyenne), cuites (sans adjonction de graisse ni de sel);38;1.00;6.30;0.30;46
+969;Légumes racines et tubercules (moyenne), crues;36;1.00;6.00;0.30;47
+970;Zampone;361;19.10;0.00;31.60;110
+971;Chèvre (moyenne), crue;149;19.50;0.00;7.90;107
+972;Lait de chèvre;57;2.80;4.20;3.20;40
+973;Sérac;123;11.10;3.30;7.20;38
+974;Etoiles à la cannelle;481;11.90;49.00;24.90;94
+975;Citron, cru;22;0.80;2.90;0.40;23
+976;Jus de citron;30;0.40;6.10;0.30;25
+977;Agrume (moyenne), crue;41;0.80;8.30;0.20;23
+978;Piccata de courges, préparée;151;5.40;6.40;11.30;58
+979;Courgette, à la vapeur (sans sel ni graisse);25;2.40;2.60;0.30;46
+981;Tranches de courgette, panées, préparées;128;5.20;13.40;5.60;58
+982;Sucre, roux, complet;390;0.00;97.60;0.00;104
+983;Sucre, blanc;400;0.00;100.00;0.00;104
+984;Chicorée pain de sucre, crue;16;1.20;1.50;0.20;47
+985;Maïs doux, conserve;100;3.00;18.20;1.20;46
+986;Maïs doux  (conserve), réchauffé (sans adjonction de sel);107;3.20;19.40;1.30;46
+987;Tourte au Kirsch de Zug;335;4.80;34.60;18.70;100
+988;Langue (moyenne de veau et boeuf), crue;188;16.60;2.80;12.30;113
+989;Quetsche, cuite, égoutée (sans adjonction de sucre);53;0.70;10.90;0.10;22
+990;Quetsche, crue;43;0.60;8.80;0.10;23
+991;Tarte aux quetsches, cuite au four (pâte feuilletée);133;2.50;14.60;6.80;101
+992;Tarte aux quetsches, cuite au four (pâte à gateau);125;2.90;16.80;4.70;101
+993;Biscottes;428;14.70;69.60;9.50;56
+994;Biscottes complètes;412;17.70;61.20;9.00;56
+995;Oignon, à l'étuvée (sans adjonction de graisse ni de sel);46;1.60;8.40;0.20;46
+996;Oignon, grillés (sans adjonction de graisse ni de sel);92;3.10;16.70;0.50;46
+997;Oignon, cru;39;1.30;7.00;0.20;47
+998;Gateau aux oignons, cuit au four (pâte feuilletée);178;4.60;13.30;11.50;66
+999;Gateau aux oignons, cuit au four (pâte à gateau);171;5.00;15.30;9.60;66
